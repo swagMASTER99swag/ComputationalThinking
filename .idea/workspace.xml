@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="454eddb2-6b8d-47f9-928a-2c762ca180f5" name="Default" comment="" />
+    <list default="true" id="454eddb2-6b8d-47f9-928a-2c762ca180f5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers to alphabet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ComputationalThinking.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LetterToNumber.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LetterToNumber.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LetterToNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08456659" vertical-offset="0" max-vertical-offset="473">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numbers to alphabet.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/numbers to alphabet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.042283297" vertical-offset="0" max-vertical-offset="473">
+              <caret line="1" column="73" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -46,12 +59,13 @@
         <option value="$PROJECT_DIR$/sandBox.py" />
         <option value="$PROJECT_DIR$/ABC.py" />
         <option value="$PROJECT_DIR$/LetterToNumber.py" />
+        <option value="$PROJECT_DIR$/numbers to alphabet.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
-    <option name="y" value="43" />
+    <option name="x" value="11" />
+    <option name="y" value="24" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
@@ -113,7 +127,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.LetterToNumber">
+  <component name="RunManager" selected="Python.numbers to alphabet">
     <configuration default="false" name="VowelConsonant" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,6 +205,25 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="numbers to alphabet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ComputationalThinking" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numbers to alphabet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -317,18 +350,20 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.VowelConsonant" />
       <item index="1" class="java.lang.String" itemvalue="Python.sandBox" />
       <item index="2" class="java.lang.String" itemvalue="Python.LetterToNumber" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in ComputationalThinking" />
+      <item index="4" class="java.lang.String" itemvalue="Python.numbers to alphabet" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.LetterToNumber" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in ComputationalThinking" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sandBox" />
-        <item index="3" class="java.lang.String" itemvalue="Python.VowelConsonant" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.numbers to alphabet" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LetterToNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in ComputationalThinking" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sandBox" />
+        <item index="4" class="java.lang.String" itemvalue="Python.VowelConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -337,8 +372,8 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="43" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
+    <frame x="11" y="24" width="1400" height="837" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24945612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -346,7 +381,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32931727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -377,7 +412,8 @@
     <MESSAGE value="first commit I am swagMASTER99swag" />
     <MESSAGE value="Completed the Program \IBINswagMaster99swag" />
     <MESSAGE value="Completed the Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the Program" />
+    <MESSAGE value="Completed the Program and bugs are gone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Program and bugs are gone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -433,8 +469,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LetterToNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08456659" vertical-offset="0" max-vertical-offset="473">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numbers to alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042283297" vertical-offset="0" max-vertical-offset="473">
+          <caret line="1" column="73" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
           <folding />
         </state>
       </provider>
